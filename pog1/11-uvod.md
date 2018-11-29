@@ -13,8 +13,6 @@ Ovaj predmet temelji se na primjeni postojećih i novih praktičnih znanja i vje
 
 ## Prikaz tržišta Marshalla Breedinga \(2014\)
 
-[![](../images/breeding-2014.png)](https://journals.ala.org/ltr/issue/view/195)
-
 Izvor: [https://journals.ala.org/ltr/issue/view/195](https://journals.ala.org/ltr/issue/view/195)
 
 * Ex Libris: Primo / Primo Central
