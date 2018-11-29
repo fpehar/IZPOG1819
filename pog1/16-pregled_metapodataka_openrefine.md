@@ -10,7 +10,7 @@ Na mrežnom sjedištu [OpenRefinea](http://openrefine.org/download.html) ponuđe
 
 Na MacOS-u otvorite `Application -- OpenRefine`
 
-U pregledniku otvorite sljedeću IP adresu: [http://127.0.0.1:3333](http://127.0.0.1:3333)s.
+U pregledniku otvorite sljedeću IP adresu: [http://127.0.0.1:3333](http://127.0.0.1:3333).
 
 ## Vježba: Učitavanje podataka iz poglavlja 1.5 u Openrefine
 
