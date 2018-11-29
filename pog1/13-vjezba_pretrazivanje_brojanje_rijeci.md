@@ -70,7 +70,7 @@ Tri dobivena broja odnose na redak, riječ i znak \(točno tim redosliejdom)\.
 * `cat war_and_peace.txt | grep -i -ow war | wc`
 * `cat war_and_peace.txt | grep -i -ow peace | wc`
 
-Koja riječ se češće pojavljuje u tekstu? Rad ili mir? 
+Koja riječ se češće pojavljuje u tekstu? Rat ili mir? 
 
 ## Pomoć za rad u naredbodavnom retku
 
